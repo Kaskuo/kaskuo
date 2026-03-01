@@ -2,8 +2,7 @@ Kaskuo's gaming, streaming and sim pc, including peripherals, lights and the sim
 
 Lights: Elgato Keylight
 
-Gaming PC
-
+Gaming PC ——
 Motherboard: Gigabyte Technology Co., Ltd. B650 AERO G
 Processor: AMD Ryzen 7 9850X3D 8-Core 5.6GHz AM5 Processor
 Graphics Card: NVIDIA GeForce RTX 5080
@@ -27,8 +26,7 @@ Main Monitor: Alienware 34 Curved QD-OLED Gaming Monitor - AW3423DW
 Macro Keypad: Elgato XL Stream Deck
 Mouse Mat: Amazon Basics XL Mousepad
  
-Streaming PC
-
+Streaming PC ——
 Processor: AMD Ryzen 9 7900X 12-Core Processor
 Graphics Card: NVIDIA GeForce RTX 5080
 Memory: 128GB
@@ -37,8 +35,7 @@ Encoder: Nvenc, 936p, 8K bitrate
 Mouse: PRO X2 SUPERSTRIKE
 Keyboard: Highground
 
-Sim Racing PC
-
+Sim Racing PC ——
 Motherboard: Gigabyte Technology Co., Ltd. B650 AERO G
 Processor: AMD Ryzen 7 9850X3D 8-Core 5.6GHz AM5 Processor
 Graphics NVIDIA GeForce RTX 5080
