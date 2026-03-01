@@ -1,6 +1,6 @@
 Kaskuo's gaming, streaming and sim pc, including peripherals, lights and the sim rig
 
-Lights: Elgato Keylight
+Lights: Elgato Key Light
 
 Gaming PC ——
 
